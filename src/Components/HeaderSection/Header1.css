@@ -1,0 +1,40 @@
+.header1-container .navbar-vertical.navbar-light .navbar-nav .nav-link {
+    padding: 8px 30px;
+    border-bottom: 1px solid #EDF1FF;
+}
+.header1-container .bg-clrr {
+    background-color: #ffffff !important;
+}
+
+.header1-container .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    
+    color: #D19C97;
+}
+.header1-container a {
+    color: #D19C97;
+    text-decoration: none;
+    background-color: transparent;
+}
+.header1-container a{
+    color: black !important;
+}
+.header1-container .nav-link:hover{
+    color:lightsteelblue !important;
+}
+.header1-container .bg-clr:visited{
+    background-color: #D19C97 !important;
+}
+.header1-container .categerious:hover {
+    color:black;
+}
+.header1-container .logout-button {
+    cursor: pointer;
+}
+.header1-container .logout-button:hover {
+    color: lightsteelblue;
+}
+
+
+/* .header1-container{
+    background-color: lightsteelblue;
+} */

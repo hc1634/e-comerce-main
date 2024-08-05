@@ -1,0 +1,34 @@
+
+
+.car-container .border-top {
+    border-top: 1px solid #EDF1FF !important;
+}
+.car-container .bg-clr {
+    background-color: #D19C97 !important;
+    padding: 20px;
+}
+
+.car-container .text-primary {
+    color: #D19C97 !important;
+}
+.car-container h1{
+    color:black;
+} 
+.car-container #header-carousel img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.car-container .navbar-light .navbar-nav .nav-link.active {
+    color: #D19C97;
+}
+@media (max-width: 991.98px){
+    .car-container .navbar-light .navbar-nav .nav-link {
+    padding: 5px 0px;
+}
+}
+
+.car-container .font-weight-semi-bold {
+    font-weight: 600;
+}

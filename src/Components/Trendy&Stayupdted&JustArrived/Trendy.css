@@ -1,0 +1,38 @@
+.decorated{
+    overflow: hidden;
+    text-align: center;
+  }
+  .decorated > span{
+   position: relative;
+   display: inline-block;
+  }
+  .decorated > span:before, .decorated > span:after{
+   content: '';
+   position: absolute;
+   top: 50%;
+   border-bottom: 2px solid;
+   width: 50px;
+   margin: 0 10px;
+  }
+  .decorated > span:before{
+   right: 100%;
+  }
+
+.inner{
+    overflow : hidden;
+}
+.inner img{
+    transition : all 1.5s ease;
+}
+.inner:hover img{
+    transform: scale(1.2);
+}
+.trendy-icons {
+    color: midnightblue  !important;
+    font-size: 1rem;
+}
+
+.backcolor{
+    background-color:#37475a !important;
+}
+

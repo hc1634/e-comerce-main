@@ -1,0 +1,60 @@
+.register-popup-page .modal-content{
+    padding-right: 0px !important;
+}
+.register-page-form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.register-page-image-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.register-page-icon{
+    font-size: 48px;
+    color: #37475a;
+}
+.register-page-form{
+    display: flex;
+    flex-direction: column;
+
+}
+.register-popup-page .register-button{
+    background-color: #131A22;
+}
+.register-popup-page .register-button:hover{
+    color: #ffffff;
+    background-color: #131A22;
+}
+.register-popup-page .register-button{
+    background-color: #131A22;
+}
+.register-button-container{
+    text-align: center !important;
+    margin-top: 10px;
+}
+.register-page-form-container .forgot-password{
+    text-align: center;
+    margin-top: 16px;
+}
+
+.register-page-form-container .input{
+    display: block;
+    border: 1px solid rgb(228, 228, 228);
+    font-size: 16px;
+    width: 100%;
+    height: 48px;
+    padding: 0 15px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    outline: none;
+    border-radius: 5px;
+}
+
+.register-page-form-container .input:focus {
+  border: 2px solid #37475a;
+}
+ 

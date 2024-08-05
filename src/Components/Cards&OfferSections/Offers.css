@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.small-container{
+    background-color: #37475a;
+    font-family: poppins;
+    margin-bottom: 20px;
+}
+
+.P-L{
+    padding: 30px 0 0 30px;
+}
+
+.P-R{
+    padding: 30px 30px 0 0;
+}
+
+.text-cont-right{
+    text-align: right;
+}
+
+.girl-image{
+    height: 200px;
+}
+
+.button{
+    text-decoration: none;
+    color: lightsteelblue;
+    border: 1px solid  lightsteelblue;
+    padding: 8px 15px;
+    font-size: 18px;
+    transition: all 0.3s;
+}
+
+.button:hover{
+    background-color: lightsteelblue;
+    color: black;
+}
+
+.offer{
+    color: lightsteelblue;
+    font-size: 20px;
+}
+.card-heading{
+    font-weight: bold;
+    font-weight: 30px;
+}

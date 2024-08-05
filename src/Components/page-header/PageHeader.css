@@ -1,0 +1,23 @@
+.pageHeader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #37475a;
+    color: white;
+    min-height: 410px;
+    height: 40vh;
+}
+
+.pageHeader h1{
+    text-transform: uppercase;
+}
+
+.pageHeader a{
+    color: #1a7f91;
+    text-decoration: none;
+}
+.pageHeader a:hover{
+    color: #131A22;
+    text-decoration: underline;
+}
